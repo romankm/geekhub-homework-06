@@ -1,0 +1,3 @@
+my_company_super_homepage:
+    path:     /
+    defaults: { _controller: MyCompanySuperBundle:Default:index }
